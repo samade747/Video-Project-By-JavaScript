@@ -14,6 +14,11 @@ body{
     position: absolute !important;
 }
 
+#videomy{
+    position: relative;
+    z-index: 0;
+}
+
 
 /* The switch - the box around the slider */
 .switch {
